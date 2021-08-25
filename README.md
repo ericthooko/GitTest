@@ -4,7 +4,7 @@
 
 ## PREREQUISITES
 
-##INSTRUCTIONS##
+## INSTRUCTIONS
 
 +Log in using username & password 
 
@@ -27,4 +27,4 @@ IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ```
 
-*End
+* End
